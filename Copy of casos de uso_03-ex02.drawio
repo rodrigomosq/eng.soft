@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T02:00:39.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="TQx72aEWA3l4E-Prh3tl" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T02:00:59.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wk5PC0LL9D8errsWcRMd" version="21.7.1" type="github">
   <diagram name="Página-1" id="-1LXwpdB1ogXd96rtCXg">
     <mxGraphModel dx="1434" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="L2kQlH3EjQIykU1mdUSc-3" value="funcionario(Gerente)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="489" y="450" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qUDbLY4y25tA5_K88y8_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="L2kQlH3EjQIykU1mdUSc-4" target="L2kQlH3EjQIykU1mdUSc-41">
+        <mxCell id="qUDbLY4y25tA5_K88y8_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="L2kQlH3EjQIykU1mdUSc-4" target="L2kQlH3EjQIykU1mdUSc-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2kQlH3EjQIykU1mdUSc-4" value="Realizar Compra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -250,7 +250,7 @@
         <mxCell id="L2kQlH3EjQIykU1mdUSc-101" value="include" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="256" y="-132.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qUDbLY4y25tA5_K88y8_-2" value="&lt;br&gt;desconto&lt;br&gt;usar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qUDbLY4y25tA5_K88y8_-2" value="&lt;br&gt;desconto&lt;br&gt;usar" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1121" y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
